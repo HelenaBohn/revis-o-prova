@@ -27,6 +27,12 @@ body{
     margin: 300px;
 }
 
+.rosa{
+    background-color: rgb(226, 123, 132);
+    padding: 150px;
+    margin: 300px;
+}
+
 
 .flex{
     display: flex;
